@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">TwoSpot</string>
-    <string name="description_my_position">MyPosition</string>
-
-    <string name="OPEN_TRIP_MAP_API_KEY">5ae2e3f221c38a28845f05b697f3ded8bb8de0911a546f3b4d30bfa4</string>
-    <string name="OPEN_TRIP_MAP_URL">https://api.opentripmap.com/</string>
-    <string name="search_area_button">Search area</string>
-</resources>
