@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Martian</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_next">Next</string>
+    <string name="sol">Sol</string>
+    <string name="select_unit">Select unit:</string>
+    <string name="welcome_text_greeting">Welcome to Martian!</string>
+    <string name="welcome_text_quote">Get ready to embark on an exciting journey through the Martian terrain like never before!</string>
+    <string name="mars">mars</string>
+    <string name="welcome_text_btn">Let\'s get started</string>
+    <string name="rover_name_curiosity">Curiosity</string>
+    <string name="rover_name_spirit">Spirit</string>
+    <string name="rover_name_opportunity">Opportunity</string>
+    <string name="no_data">NO DATA</string>
+</resources>
