@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.Timer" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:fontFamily">@font/opensans</item>
+        <item name="android:windowBackground">#1A222C</item>
+        <item name="colorPrimaryDark">#1A222C</item>
+        <item name="android:textColor">@color/active_grey</item>
+    </style>
+
+    <style name="ButtonStyle" parent="@style/Widget.Material3.Button">
+        <item name="backgroundTint">@color/active_grey</item>
+    </style>
+</resources>

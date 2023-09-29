@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Timer</string>
+    <string name="stop">STOP</string>
+    <string name="start">START</string>
+    <string name="timer_title">My Timer</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+</resources>
